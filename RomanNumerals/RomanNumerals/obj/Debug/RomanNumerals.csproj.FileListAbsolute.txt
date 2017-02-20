@@ -1,0 +1,8 @@
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\nunit.framework.dll
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\nunit.framework.xml
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.exe
+c:\users\rmaj\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb
